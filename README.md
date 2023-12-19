@@ -4,6 +4,9 @@ Sup, I'm MrMilitaryMech, or as you can call me, MrMilitaryMech.
 I'm a programmer from the UK. I like working with python and used to work on roblox games.
 I like to make closed source things because of that one anxious feeling in the back of my mind that someone will rebrand my stuff and completely take everything I work on. Think of the whole oreo and hydrox thing.
 Don't worry though, I don't make malware.
+
+## Projects
+
 Most of my projects are stored on my PC instead of Github because of convenience. Here's a list of all of my projects:
 
 1. 2023 Slang generator [Complete] - Uses whatever words people come up with in 2023 to create a "sentence".
@@ -22,6 +25,9 @@ Most of my projects are stored on my PC instead of Github because of convenience
 14. Super Encoder [Beta] - Goes through ~12 different encoding methods for one thing. Hard to decode.
 15. Video to gif [Complete] - Simple, Video to Gif.
 16. YT Downloader [Complete] - Just downloads youtube videos.
+
+## More about me
+I know you weren't asking so shut up.
 
 <!---
 MrMilitaryMech/MrMilitaryMech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
