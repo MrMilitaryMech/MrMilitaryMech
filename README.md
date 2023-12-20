@@ -2,7 +2,7 @@
 
 Sup, I'm MrMilitaryMech, or as you can call me, MrMilitaryMech.
 I'm a programmer from the UK. I like working with python and used to work on roblox games.
-Usually, I make closed-source stuff but sometimes there will be the odd open-source thing
+Usually, I make open-source stuff but sometimes I will make the odd closed-source thing.
 
 ## Discord (Important)
 
