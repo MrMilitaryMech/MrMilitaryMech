@@ -2,8 +2,7 @@
 
 Sup, I'm MrMilitaryMech, or as you can call me, MrMilitaryMech.
 I'm a programmer from the UK. I like working with python and used to work on roblox games.
-I like to make closed source things because of that one anxious feeling in the back of my mind that someone will rebrand my stuff and completely take everything I work on. Think of the whole oreo and hydrox thing.
-Don't worry though, I don't make malware.
+Usually, I make closed-source stuff but sometimes there will be the odd open-source thing
 
 ## Discord (Important)
 
