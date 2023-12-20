@@ -5,6 +5,10 @@ I'm a programmer from the UK. I like working with python and used to work on rob
 I like to make closed source things because of that one anxious feeling in the back of my mind that someone will rebrand my stuff and completely take everything I work on. Think of the whole oreo and hydrox thing.
 Don't worry though, I don't make malware.
 
+## Discord (Important)
+
+For [ANY] questions or just to chat you can join my discord [here](https://discord.gg/NxVHsGw7K9).
+
 ## Projects
 
 Most of my projects are stored on my PC instead of Github because of convenience. Here's a list of all of my projects:
