@@ -4,10 +4,6 @@ Sup, I'm MrMilitaryMech, or as you can call me, MrMilitaryMech.
 I'm a programmer from the UK. I like working with python and used to work on roblox games.
 Usually, I make open-source stuff but sometimes I will make the odd closed-source thing.
 
-## Discord (Important)
-
-For [ANY] questions or just to chat you can join my discord [here](https://discord.gg/NxVHsGw7K9).
-
 ## Projects
 
 Most of my projects are stored on my PC instead of Github because of convenience. Here's a list of all of my projects:
@@ -30,8 +26,8 @@ Most of my projects are stored on my PC instead of Github because of convenience
 16. YT Downloader [Complete] - Just downloads youtube videos.
 17. Opera Promo Free Nitro Generator [Complete] - Uses the Opera x Discord promo to generatre free nitro codes.
 
-## More about me
-I know you weren't asking so shut up.
+## Any questions?
+Join my Discord [here](https://discord.gg/NxVHsGw7K9)!
 
 <!---
 MrMilitaryMech/MrMilitaryMech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
