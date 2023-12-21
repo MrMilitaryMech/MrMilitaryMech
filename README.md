@@ -28,6 +28,7 @@ Most of my projects are stored on my PC instead of Github because of convenience
 
 ## Any questions?
 Join my Discord [here](https://discord.gg/NxVHsGw7K9)!
+My twitter is [here](twitter.com/MrMilitaryMech).
 
 <!---
 MrMilitaryMech/MrMilitaryMech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
