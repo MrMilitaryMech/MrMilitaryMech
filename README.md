@@ -23,8 +23,8 @@ Most of my projects are stored on my PC instead of Github because of convenience
 13. Secure Password Checker [Complete] - Excuse to use that one-way hash.
 14. Super Encoder [Beta] - Goes through ~12 different encoding methods for one thing. Hard to decode.
 15. Video to gif [Complete] - Simple, Video to Gif.
-16. YT Downloader [Complete] - Just downloads youtube videos.
-17. Opera Promo Free Nitro Generator [Complete] - Uses the Opera x Discord promo to generatre free nitro codes.
+16. YT Downloader [Complete] - Just downloads youtube videos. [[Project here](https://github.com/MrMilitaryMech/Youtube-Downloader)]
+17. Opera Promo Free Nitro Generator [Complete] - Uses the Opera x Discord promo to generatre free nitro codes. [[Project here](https://github.com/MrMilitaryMech/Opera-Nitro-Key-Generator)]
 
 ## Any questions?
 Join my Discord [here](https://discord.gg/NxVHsGw7K9)!
