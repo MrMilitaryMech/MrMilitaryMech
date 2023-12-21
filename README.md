@@ -28,6 +28,7 @@ Most of my projects are stored on my PC instead of Github because of convenience
 14. Super Encoder [Beta] - Goes through ~12 different encoding methods for one thing. Hard to decode.
 15. Video to gif [Complete] - Simple, Video to Gif.
 16. YT Downloader [Complete] - Just downloads youtube videos.
+17. Opera Promo Free Nitro Generator [Complete] - Uses the Opera x Discord promo to generatre free nitro codes.
 
 ## More about me
 I know you weren't asking so shut up.
