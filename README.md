@@ -11,7 +11,7 @@ Most of my projects are stored on my PC instead of Github because of convenience
 1. 2023 Slang generator [Complete] - Uses whatever words people come up with in 2023 to create a "sentence".
 2. Aimbot [Beta] - Detects humanoids and aim at the head keypoint.
 3. App Maker [Beta] - Uses Tkinter to make more customisable Tkinter apps. Theoretically, You could make an app maker in the app maker.
-4. Bean [Complete] - Shows Ascii art of the word "Beans". Pretty random but it works.
+4. Bean [Complete] - Shows Ascii art of the word "Beans". Pretty random but it works. [[Project here](https://github.com/MrMilitaryMech/BEAN)]
 5. Custom 3D Renderer [Beta] - Originally started as a computer science project, this can render 3d models using turtle. Not fast or efficient but schools have no modules to deal with.
 6. EZ Project creator [Beta] - My stored projects are always layed out the same. Here's what's in a project folder: IDLE shortcut, Auto-Py-To-Exe shortcut, Project data folder, Project Main file, Project ReadMe File & Project Info JSON file (For EZ Project Creator to read). This makes a new project for me!
 7. Humanoid Pose Estimator [ALPHA] - Estimates the pose of any person found by the computer's webcam and when you walk in real life, you walk in the game.
