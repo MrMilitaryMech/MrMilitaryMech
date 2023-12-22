@@ -8,7 +8,7 @@ Usually, I make open-source stuff but sometimes I will make the odd closed-sourc
 
 Most of my projects are stored on my PC instead of Github because of convenience. Here's a list of all of my projects:
 
-1. 2023 Slang generator [Complete] - Uses whatever words people come up with in 2023 to create a "sentence".
+1. 2023 Slang generator [Complete] - Uses whatever words people come up with in 2023 to create a "sentence". [[Project here](https://github.com/MrMilitaryMech/2023-Sentence-Generator)]
 2. Aimbot [Beta] - Detects humanoids and aim at the head keypoint.
 3. App Maker [Beta] - Uses Tkinter to make more customisable Tkinter apps. Theoretically, You could make an app maker in the app maker.
 4. Bean [Complete] - Shows Ascii art of the word "Beans". Pretty random but it works. [[Project here](https://github.com/MrMilitaryMech/BEAN)]
