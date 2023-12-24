@@ -26,6 +26,9 @@ Most of my projects are stored on my PC instead of Github because of convenience
 16. YT Downloader [Complete] - Just downloads youtube videos. [[Project here](https://github.com/MrMilitaryMech/Youtube-Downloader)]
 17. Opera Promo Free Nitro Generator [Complete] - Uses the Opera x Discord promo to generatre free nitro codes. [[Project here](https://github.com/MrMilitaryMech/Opera-Nitro-Key-Generator)]
 
+>[!NOTE]
+>When my installer is released, there won't be any need to download any of these.
+
 ## Any questions?
 Join my Discord [here](https://discord.gg/NxVHsGw7K9)!
 My twitter is [here](twitter.com/MrMilitaryMech).
