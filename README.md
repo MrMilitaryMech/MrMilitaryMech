@@ -29,6 +29,13 @@ Here is quite literally everything I can make:
 2. BT:R Remote admin panel - A remote admin panel for my roblox game that can be found [here](https://www.roblox.com/games/10448933640/Bunker-Tycoon-Rebooted-BETA). I don't want it shared as it's my panel, duh.
 3. Roblox User info getter - An application that gets all known public (and some private) info on a roblox user. I would not like this to be shared as I know some people would use it for stalking.
 4. 
+>[!NOTE]
+>I'm not done with this section, I've made at least 10 more projects.
+### Python Projects:
+1. Complete the VB section and do the python section.
+
+### Scratch: 3DEngine
+3DEngine is a modular program for the online blocky "programming language" known as scratch. It is pretty much a vertex shader but in scratch.
 
 >[!NOTE]
 >When my installer is released, there won't be any need to download any of these.
