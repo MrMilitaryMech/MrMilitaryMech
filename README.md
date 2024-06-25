@@ -24,8 +24,11 @@ Here is quite literally everything I can make:
 
 ## Projects
 ### My python projects used to be here, but I use visual basic for just about everything now because it can be converted into a simple setup.exe in seconds.
-Most of my projects are stored on my PC instead of Github because of convenience. Here's a list of all of my projects:
-1. X-Axis Train deleter - Deletes all trains in all servers for [this roblox game](https://www.roblox.com/games/17117997976/x-axis-train)
+### Visual Basic Projects:
+1. X-Axis Train deleter - Deletes all trains in all servers for [this roblox game](https://www.roblox.com/games/17117997976/x-axis-train). Owner doesn't want it shared as he forgot to IP lock the API key.
+2. BT:R Remote admin panel - A remote admin panel for my roblox game that can be found [here](https://www.roblox.com/games/10448933640/Bunker-Tycoon-Rebooted-BETA). I don't want it shared as it's my panel, duh.
+3. Roblox User info getter - An application that gets all known public (and some private) info on a roblox user. I would not like this to be shared as I know some people would use it for stalking.
+4. 
 
 >[!NOTE]
 >When my installer is released, there won't be any need to download any of these.
