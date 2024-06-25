@@ -1,30 +1,31 @@
 # My Profile Thingymabob
 
-Sup, I'm MrMilitaryMech, or as you can call me, MrMilitaryMech.
-I'm a programmer from the UK. I like working with python and used to work on roblox games.
-Usually, I make open-source stuff but sometimes I will make the odd closed-source thing.
+Welcome to my Profile!
+I'm MrMilitaryMech, a programmer from the UK. I like to make various different things with my vast amount of knowledge with programming.
+Here is quite literally everything I can make:
+1. Websites (w/ css)
+2. Python scripts
+3. Windows programs
+4. Unreal Engine games
+5. Roblox games
+6. Roblox modules for stuff like anticheats and whatnot
+7. Minecraft mods (Pretty much all modloaders supported)
+8. Minecraft Bedrock addons
+9. Random physical devices that do one thing and one thing only
+10. I can build pcs so that's another thing to add to the list
+11. Working on shaders
+12. I made 3DEngine for scratch, which is basically a vertex shader
+13. Chrome extensions (Made an auto-completer for sparx maths once but I've lost the files somewhere
+14. Some other random stuff.
+
+>[!NOTE]
+>If I know you in the real world that isn't full of ones and zeros, You can ask me to make an app and I will do so with ease.
+>Dont ask me to remake the sparx maths completer. I'm working on it, shut up.
 
 ## Projects
-
+### My python projects used to be here, but I use visual basic for just about everything now because it can be converted into a simple setup.exe in seconds.
 Most of my projects are stored on my PC instead of Github because of convenience. Here's a list of all of my projects:
-
-1. 2023 Slang generator [Complete] - Uses whatever words people come up with in 2023 to create a "sentence". [[Project here](https://github.com/MrMilitaryMech/2023-Sentence-Generator)]
-2. Aimbot [Beta] - Detects humanoids and aim at the head keypoint.
-3. App Maker [Beta] - Uses Tkinter to make more customisable Tkinter apps. Theoretically, You could make an app maker in the app maker.
-4. Bean [Complete] - Shows Ascii art of the word "Beans". Pretty random but it works. [[Project here](https://github.com/MrMilitaryMech/BEAN)]
-5. Custom 3D Renderer [Beta] - Originally started as a computer science project, this can render 3d models using turtle. Not fast or efficient but schools have no modules to deal with.
-6. EZ Project creator [Beta] - My stored projects are always layed out the same. Here's what's in a project folder: IDLE shortcut, Auto-Py-To-Exe shortcut, Project data folder, Project Main file, Project ReadMe File & Project Info JSON file (For EZ Project Creator to read). This makes a new project for me!
-7. Humanoid Pose Estimator [ALPHA] - Estimates the pose of any person found by the computer's webcam and when you walk in real life, you walk in the game.
-8. Image to ASCII [Complete] - Turns an image into ASCII art.
-9. Video to ASCII [Beta] - Same thing but with FPS and Sound.
-10. Image Vectoriser [Beta] - Just an image to SVG.
-11. MC Audio Extractor [Complete] - Who decided to encode the audio anyway?
-12. Object Estimator [Complete] - Detects objects in a photo or video.
-13. Secure Password Checker [Complete] - Excuse to use that one-way hash.
-14. Super Encoder [Beta] - Goes through ~12 different encoding methods for one thing. Hard to decode.
-15. Video to gif [Complete] - Simple, Video to Gif.
-16. YT Downloader [Complete] - Just downloads youtube videos. [[Project here](https://github.com/MrMilitaryMech/Youtube-Downloader)]
-17. Opera Promo Free Nitro Generator [Complete] - Uses the Opera x Discord promo to generatre free nitro codes. [[Project here](https://github.com/MrMilitaryMech/Opera-Nitro-Key-Generator)]
+1. X-Axis Train deleter - Deletes all trains in all servers for [this roblox game](https://www.roblox.com/games/17117997976/x-axis-train)
 
 >[!NOTE]
 >When my installer is released, there won't be any need to download any of these.
