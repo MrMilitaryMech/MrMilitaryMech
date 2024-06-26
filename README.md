@@ -34,6 +34,10 @@ Here is quite literally everything I can make:
 ### Python Projects:
 1. [Discord Opera GX Promotion Free Nitro Generator](https://github.com/MrMilitaryMech/Opera-Nitro-Key-Generator) - Uses the Discord + Opera GX promo to generate free Discord Nitro keys.
 
+### Minecraft Mods
+1. [Fortified](https://modrinth.com/mod/fortified) - Adds mostly decorative industrial blocks to your game!
+2. [The Un-Furnace](https://modrinth.com/mod/the-un-furnace) - Uncooks cooked items. No support for modded items (yet).
+
 ### Scratch: 3DEngine
 3DEngine is a modular program for the online blocky "programming language" known as scratch. It is pretty much a vertex shader but in scratch.
 
