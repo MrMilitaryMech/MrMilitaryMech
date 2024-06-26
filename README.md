@@ -25,10 +25,11 @@ Here is quite literally everything I can make:
 ## Projects
 ### My python projects used to be here, but I use visual basic for just about everything now because it can be converted into a simple setup.exe in seconds.
 ### Visual Basic Projects:
-1. X-Axis Train deleter - Deletes all trains in all servers for [this roblox game](https://www.roblox.com/games/17117997976/x-axis-train). Owner doesn't want it shared as he forgot to IP lock the API key.
-2. BT:R Remote admin panel - A remote admin panel for my roblox game that can be found [here](https://www.roblox.com/games/10448933640/Bunker-Tycoon-Rebooted-BETA). I don't want it shared as it's my panel, duh.
-3. Roblox User info getter - An application that gets all known public (and some private) info on a roblox user. I would not like this to be shared as I know some people would use it for stalking.
-4. 
+1. [Text2Table Remade](https://github.com/MrMilitaryMech/Text2Table-Remade) - I remade one of my own python scripts that turns a string into a table (Seperated by each new line)
+2. X-Axis Train deleter - Deletes all trains in all servers for [this roblox game](https://www.roblox.com/games/17117997976/x-axis-train). Owner doesn't want it shared as he forgot to IP lock the API key.
+3. BT:R Remote admin panel - A remote admin panel for my roblox game that can be found [here](https://www.roblox.com/games/10448933640/Bunker-Tycoon-Rebooted-BETA). I don't want it shared as it's my panel, duh.
+4. Roblox User info getter - An application that gets all known public (and some private) info on a roblox user. I would not like this to be shared as I know some people would use it for stalking.
+5. 
 >[!NOTE]
 >I'm not done with this section, I've made at least 10 more projects.
 ### Python Projects:
