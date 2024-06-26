@@ -33,6 +33,8 @@ Here is quite literally everything I can make:
 >I'm not done with this section, I've made at least 10 more projects.
 ### Python Projects:
 1. [Discord Opera GX Promotion Free Nitro Generator](https://github.com/MrMilitaryMech/Opera-Nitro-Key-Generator) - Uses the Discord + Opera GX promo to generate free Discord Nitro keys.
+2. Curseforge Modpack Downloader [PRIVATE] - Downloads all resource packs and mods from a CurseForge modpack and puts them into folders. Used when I moved away from CurseForge
+3. Github repo to installer [PRIVATE] - A program that makes another program specifically to retrieve the latest release of a github repo and shove it into a folder.
 
 ### Minecraft Mods
 1. [Fortified](https://modrinth.com/mod/fortified) - Adds mostly decorative industrial blocks to your game!
@@ -41,12 +43,10 @@ Here is quite literally everything I can make:
 ### Scratch: 3DEngine
 3DEngine is a modular program for the online blocky "programming language" known as scratch. It is pretty much a vertex shader but in scratch.
 
->[!NOTE]
->When my installer is released, there won't be any need to download any of these.
-
 ## Any questions?
-Join my Discord [here](https://discord.gg/NxVHsGw7K9)!
-My twitter is [here](twitter.com/MrMilitaryMech).
+DM me on discord (mrmilitarymech)
+DM me on Twitter (@MrMilitaryMech)
+Message me on Roblox (MrMilitaryMech)
 
 <!---
 MrMilitaryMech/MrMilitaryMech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
