@@ -35,6 +35,7 @@ Here is quite literally everything I can make:
 1. [Discord Opera GX Promotion Free Nitro Generator](https://github.com/MrMilitaryMech/Opera-Nitro-Key-Generator) - Uses the Discord + Opera GX promo to generate free Discord Nitro keys.
 2. Curseforge Modpack Downloader [PRIVATE] - Downloads all resource packs and mods from a CurseForge modpack and puts them into folders. Used when I moved away from CurseForge
 3. Github repo to installer [PRIVATE] - A program that makes another program specifically to retrieve the latest release of a github repo and shove it into a folder.
+4. The everything converter [PRIVATE] - Converts a file into any other possible format of it's type e.g webp to png, png to ico etc.
 
 ### Minecraft Mods
 1. [Fortified](https://modrinth.com/mod/fortified) - Adds mostly decorative industrial blocks to your game!
