@@ -32,7 +32,7 @@ Here is quite literally everything I can make:
 >[!NOTE]
 >I'm not done with this section, I've made at least 10 more projects.
 ### Python Projects:
-1. Complete the VB section and do the python section.
+1. [Discord Opera GX Promotion Free Nitro Generator](https://github.com/MrMilitaryMech/Opera-Nitro-Key-Generator) - Uses the Discord + Opera GX promo to generate free Discord Nitro keys.
 
 ### Scratch: 3DEngine
 3DEngine is a modular program for the online blocky "programming language" known as scratch. It is pretty much a vertex shader but in scratch.
