@@ -1,6 +1,4 @@
-# My Profile Thingymabob
-
-Welcome to my Profile!
+# Welcome to my Profile!
 I'm MrMilitaryMech, a programmer from the UK. I spend a lot of my time experimenting with APIs.
 
 My Languages:
@@ -27,7 +25,7 @@ My Languages:
 
 ### C# Projects:
 1. RbxConnect [Private] - A wrapper for the Roblox API that simplifies responses & contains various misc. functions.
-2. TxtFormat [Private] - Made for formatting text in useful ways, will be public soon.
+2. TxtFormat [Private] - Made for formatting text in useful ways, will be public soon. Think of it as Text3Table
 
 ### Python Projects:
 1. [Discord Opera GX Promotion Free Nitro Generator](https://github.com/MrMilitaryMech/Opera-Nitro-Key-Generator) - Uses the Discord + Opera GX promo to generate free Discord Nitro keys.
