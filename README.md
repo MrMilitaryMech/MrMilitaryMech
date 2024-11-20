@@ -9,12 +9,13 @@ My Languages:
 4. C# (My favourite!)
 5. Visual Basic
 6. Lua
+7. JavaScript
 
 >[!NOTE]
 >If I know you IRL, I will happily make whatever you want!
 
 ## Projects
-### My python projects used to be here, but I use visual basic for just about everything now because it can be converted into a simple setup.exe in seconds.
+
 ### Visual Basic Projects:
 1. [Text2Table Remade](https://github.com/MrMilitaryMech/Text2Table-Remade) - I remade one of my own python scripts that turns a string into a table (Seperated by each new line)
 2. X-Axis Train deleter - Deletes all trains in all servers for [this roblox game](https://www.roblox.com/games/17117997976/x-axis-train). Owner doesn't want it shared as he forgot to IP lock the API key.
@@ -34,9 +35,8 @@ My Languages:
 2. [The Un-Furnace](https://modrinth.com/mod/the-un-furnace) - Uncooks cooked items. No support for modded items (yet).
 
 ## Any questions?
-DM me on discord (mrmilitarymech)
+DM me on discord (@mrmilitarymech)
 DM me on Twitter (@MrMilitaryMech)
-Message me on Roblox (MrMilitaryMech)
 
 <!---
 MrMilitaryMech/MrMilitaryMech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
