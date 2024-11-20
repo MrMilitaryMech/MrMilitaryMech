@@ -35,8 +35,8 @@ My Languages:
 2. [The Un-Furnace](https://modrinth.com/mod/the-un-furnace) - Uncooks cooked items. No support for modded items (yet).
 
 ## Any questions?
-DM me on discord (@mrmilitarymech)
-DM me on Twitter (@MrMilitaryMech)
+- DM me on discord (@mrmilitarymech)
+- DM me on Twitter (@MrMilitaryMech)
 
 <!---
 MrMilitaryMech/MrMilitaryMech is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
